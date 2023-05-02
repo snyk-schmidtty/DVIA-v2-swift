@@ -1,4 +1,7 @@
 # DVIA-v2
+
+Powered by <a href="https://8ksec.io">8ksec.io</a>
+
 DVIA-v2 written in Swift along with additional vulnerabilities
 
 Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.
@@ -21,14 +24,9 @@ Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. It
 
 ## Installing DVIA on any iOS device 
 
-The best way to install DVIA is using <a href="www.cydiaimpactor.com/
-">Cydia Impactor</a>
-
-### Steps
-1. Create an Apple ID https://appleid.apple.com/account
-2. Download <em>Impactor</em>, make sure the device you want to install the app on is connected to your computer. Now drag and drop the <em>IPA</em> file to <em>Impactor</em>.
-3. Enter your Apple ID credentials. App will install on the device
-4. Go to your device, <em>Settings -> General -> Device Management</em>. Select the Apple ID you used to install the app. Click on <em>Verify App</em> under DVIAv2.
+The best way to install DVIA from a Mac is using <a href="https://support.apple.com/en-ae/apple-configurator
+">Apple Configurator App</a>.
+If you are using Windows or Linux, you can use AltStore, Cydia Impactor etc. A paid developer account might be required in some cases.
 
 ## Compiling DVIA using Xcode
 
